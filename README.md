@@ -10,7 +10,7 @@ Installation: Add shortcut to desktop, windows, linux or ios.
 
 Usage: See Help within app.
 
-License: Free to use.
+License: Free to use
 
 
 🗓️ The "Day-Before-Payday" Metric
