@@ -1,4 +1,4 @@
-/* ================= DIARY HELPERS (GLOBAL) ======================== */
+/* ================= DIARY HELPERS (GLOBAL) ========================= */
 
 
 window.hasDiaryNote = function (isoDate) {
